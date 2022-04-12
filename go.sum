@@ -1,0 +1,8 @@
+github.com/logrusorgru/aurora/v3 v3.0.0 h1:R6zcoZZbvVcGMvDCKo45A9U/lzYyzl5NfYIvznmDfE4=
+github.com/logrusorgru/aurora/v3 v3.0.0/go.mod h1:vsR12bk5grlLvLXAYrBsb5Oc/N+LxAlxggSjiwMnCUc=
+github.com/wii-tools/GoNUSD v0.2.2 h1:vHiSLI9sK9Q4zbCt24jMiq/lo2FISLBuCHoaY3Bd88c=
+github.com/wii-tools/GoNUSD v0.2.2/go.mod h1:Wf0ZMf4jdyQYSaSmNyFsqfQbngFA/cM9mpJBZ63Qlzs=
+github.com/wii-tools/lz11 v0.3.0 h1:klmLR9X1KSz5XxOMUoMWY0jYN7OGYXSmMtMF5un2RQg=
+github.com/wii-tools/lz11 v0.3.0/go.mod h1:9uN1qJv9H2BUN5urVx0vzN3qhxa7P/mAJC1OVkM23ec=
+github.com/wii-tools/wadlib v0.3.1 h1:g0Szzof/YsBLghP+JpoVzT/6M6jpl+AH9PHiUuG3cd8=
+github.com/wii-tools/wadlib v0.3.1/go.mod h1:GK+f2POk+rVu1p4xqLSb4ll1SKKbfOO6ZAB+oPLV3uQ=
