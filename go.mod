@@ -1,4 +1,4 @@
-module Wii-no-Ma-WAD-Patcher
+module Wii-no-Ma-Patcher
 
 go 1.18
 
@@ -9,5 +9,3 @@ require (
 	github.com/wii-tools/powerpc v0.1.0
 	github.com/wii-tools/wadlib v0.3.1
 )
-
-replace github.com/wii-tools/powerpc => ../../wii-tools/powerpc
