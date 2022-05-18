@@ -67,7 +67,13 @@ func main() {
 
 	// Apply all DOL patches
 	fmt.Println(aurora.Green("Applying DOL patches..."))
-	mainDol, err = ApplyPatchSet(DetermineLanguageCodePatch, mainDol)
+	patches := []PatchSet{
+		DetermineLanguageCodePatch,
+		UseConsoleLanguagePatch,
+		RemoveRegionRestrictionsPatch,
+	}
+
+	mainDol, err = ApplyPatchSets(patches, mainDol)
 	check(err)
 
 	// Save main DOL
